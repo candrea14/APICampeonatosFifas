@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ApicampeonatosfifaApplication<apicampeonatosfifa>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "apicampeonatosfifa.apicampeonatosfifa.ApicampeonatosfifaApplication",
+      "projectName": "apicampeonatosfifa",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
